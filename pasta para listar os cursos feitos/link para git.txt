@@ -1,0 +1,8 @@
+git besh é um erminal estendido para otimizar o uso odo git 
+vou estar deixando o link para baixar o aplicativo 
+
+https://git-scm.com/download/win
+
+link para estudos sobre markdown 
+
+https://www.markdownguide.org/getting-started/
